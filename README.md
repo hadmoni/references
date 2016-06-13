@@ -30,4 +30,4 @@ If you've already cloned a repository that links to this submodule without using
 ```
 git submodule init # initializes the local configuration file
 git submodule update # fetches data from the appropriate commit
-'''
+```
